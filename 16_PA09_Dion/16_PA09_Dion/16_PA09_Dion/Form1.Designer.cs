@@ -37,6 +37,7 @@
             this.rdb_JapaneseYen = new System.Windows.Forms.RadioButton();
             this.btn_clear = new System.Windows.Forms.Button();
             this.btn_convert = new System.Windows.Forms.Button();
+            this.rdb_MalaysianRinggit = new System.Windows.Forms.RadioButton();
             this.SuspendLayout();
             // 
             // lbl_amount
@@ -60,7 +61,7 @@
             // lbl_value
             // 
             this.lbl_value.AutoSize = true;
-            this.lbl_value.Location = new System.Drawing.Point(64, 232);
+            this.lbl_value.Location = new System.Drawing.Point(64, 298);
             this.lbl_value.Name = "lbl_value";
             this.lbl_value.Size = new System.Drawing.Size(44, 17);
             this.lbl_value.TabIndex = 2;
@@ -75,7 +76,7 @@
             // 
             // txt_convertedAmt
             // 
-            this.txt_convertedAmt.Location = new System.Drawing.Point(231, 227);
+            this.txt_convertedAmt.Location = new System.Drawing.Point(231, 293);
             this.txt_convertedAmt.Name = "txt_convertedAmt";
             this.txt_convertedAmt.ReadOnly = true;
             this.txt_convertedAmt.Size = new System.Drawing.Size(310, 22);
@@ -123,11 +124,23 @@
             this.btn_convert.UseVisualStyleBackColor = true;
             this.btn_convert.Click += new System.EventHandler(this.btn_convert_Click);
             // 
+            // rdb_MalaysianRinggit
+            // 
+            this.rdb_MalaysianRinggit.AutoSize = true;
+            this.rdb_MalaysianRinggit.Location = new System.Drawing.Point(231, 229);
+            this.rdb_MalaysianRinggit.Name = "rdb_MalaysianRinggit";
+            this.rdb_MalaysianRinggit.Size = new System.Drawing.Size(136, 21);
+            this.rdb_MalaysianRinggit.TabIndex = 9;
+            this.rdb_MalaysianRinggit.TabStop = true;
+            this.rdb_MalaysianRinggit.Text = "MalaysianRinggit";
+            this.rdb_MalaysianRinggit.UseVisualStyleBackColor = true;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.rdb_MalaysianRinggit);
             this.Controls.Add(this.btn_convert);
             this.Controls.Add(this.btn_clear);
             this.Controls.Add(this.rdb_JapaneseYen);
@@ -155,6 +168,7 @@
         private System.Windows.Forms.RadioButton rdb_JapaneseYen;
         private System.Windows.Forms.Button btn_clear;
         private System.Windows.Forms.Button btn_convert;
+        private System.Windows.Forms.RadioButton rdb_MalaysianRinggit;
     }
 }
 

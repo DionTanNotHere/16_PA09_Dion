@@ -8,3 +8,23 @@ C:\Users\User\Desktop\Helo\16_PA09_Dion\16_PA09_Dion\obj\Debug\16_PA09_Dion.cspr
 C:\Users\User\Desktop\Helo\16_PA09_Dion\16_PA09_Dion\obj\Debug\16_PA09_Dion.csproj.CoreCompileInputs.cache
 C:\Users\User\Desktop\Helo\16_PA09_Dion\16_PA09_Dion\obj\Debug\16_PA09_Dion.exe
 C:\Users\User\Desktop\Helo\16_PA09_Dion\16_PA09_Dion\obj\Debug\16_PA09_Dion.pdb
+C:\Users\User\Desktop\16_PA09_Dion\16_PA09_Dion\16_PA09_Dion\bin\Debug\16_PA09_Dion.exe.config
+C:\Users\User\Desktop\16_PA09_Dion\16_PA09_Dion\16_PA09_Dion\bin\Debug\16_PA09_Dion.exe
+C:\Users\User\Desktop\16_PA09_Dion\16_PA09_Dion\16_PA09_Dion\bin\Debug\16_PA09_Dion.pdb
+C:\Users\User\Desktop\16_PA09_Dion\16_PA09_Dion\16_PA09_Dion\obj\Debug\16_PA09_Dion.csprojAssemblyReference.cache
+C:\Users\User\Desktop\16_PA09_Dion\16_PA09_Dion\16_PA09_Dion\obj\Debug\_16_PA09_Dion.Form1.resources
+C:\Users\User\Desktop\16_PA09_Dion\16_PA09_Dion\16_PA09_Dion\obj\Debug\_16_PA09_Dion.Properties.Resources.resources
+C:\Users\User\Desktop\16_PA09_Dion\16_PA09_Dion\16_PA09_Dion\obj\Debug\16_PA09_Dion.csproj.GenerateResource.cache
+C:\Users\User\Desktop\16_PA09_Dion\16_PA09_Dion\16_PA09_Dion\obj\Debug\16_PA09_Dion.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\16_PA09_Dion\16_PA09_Dion\16_PA09_Dion\obj\Debug\16_PA09_Dion.exe
+C:\Users\User\Desktop\16_PA09_Dion\16_PA09_Dion\16_PA09_Dion\obj\Debug\16_PA09_Dion.pdb
+C:\Users\Jake\Desktop\School\Term 3\GIT\Year 2 - June\PA09\16_PA09_Dion\16_PA09_Dion\16_PA09_Dion\bin\Debug\16_PA09_Dion.exe.config
+C:\Users\Jake\Desktop\School\Term 3\GIT\Year 2 - June\PA09\16_PA09_Dion\16_PA09_Dion\16_PA09_Dion\bin\Debug\16_PA09_Dion.exe
+C:\Users\Jake\Desktop\School\Term 3\GIT\Year 2 - June\PA09\16_PA09_Dion\16_PA09_Dion\16_PA09_Dion\bin\Debug\16_PA09_Dion.pdb
+C:\Users\Jake\Desktop\School\Term 3\GIT\Year 2 - June\PA09\16_PA09_Dion\16_PA09_Dion\16_PA09_Dion\obj\Debug\16_PA09_Dion.csprojAssemblyReference.cache
+C:\Users\Jake\Desktop\School\Term 3\GIT\Year 2 - June\PA09\16_PA09_Dion\16_PA09_Dion\16_PA09_Dion\obj\Debug\_16_PA09_Dion.Form1.resources
+C:\Users\Jake\Desktop\School\Term 3\GIT\Year 2 - June\PA09\16_PA09_Dion\16_PA09_Dion\16_PA09_Dion\obj\Debug\_16_PA09_Dion.Properties.Resources.resources
+C:\Users\Jake\Desktop\School\Term 3\GIT\Year 2 - June\PA09\16_PA09_Dion\16_PA09_Dion\16_PA09_Dion\obj\Debug\16_PA09_Dion.csproj.GenerateResource.cache
+C:\Users\Jake\Desktop\School\Term 3\GIT\Year 2 - June\PA09\16_PA09_Dion\16_PA09_Dion\16_PA09_Dion\obj\Debug\16_PA09_Dion.csproj.CoreCompileInputs.cache
+C:\Users\Jake\Desktop\School\Term 3\GIT\Year 2 - June\PA09\16_PA09_Dion\16_PA09_Dion\16_PA09_Dion\obj\Debug\16_PA09_Dion.exe
+C:\Users\Jake\Desktop\School\Term 3\GIT\Year 2 - June\PA09\16_PA09_Dion\16_PA09_Dion\16_PA09_Dion\obj\Debug\16_PA09_Dion.pdb
