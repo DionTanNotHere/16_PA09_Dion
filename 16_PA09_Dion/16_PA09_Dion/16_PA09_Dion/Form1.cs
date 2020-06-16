@@ -25,7 +25,7 @@ namespace _16_PA09_Dion
             {
 
 
-                if ((rdb_USdollars.Checked == false) || (rdb_JapaneseYen.Checked = false))
+                if ((rdb_USdollars.Checked == false) || (rdb_JapaneseYen.Checked = false) || (rdb_MalaysianRinggit.Checked = false))
                 {
                     txt_convertedAmt.Text = "Select at least one type of currency to convert.";
                 }
@@ -40,6 +40,13 @@ namespace _16_PA09_Dion
                 {
                     AmountEntered = double.Parse(txt_amount.Text);
                     convertedvalue = AmountEntered * 81.97;
+
+                    txt_convertedAmt.Text = convertedvalue.ToString();
+                }
+                if (rdb_MalaysianRinggit.Checked == true)
+                {
+                    AmountEntered = double.Parse(txt_amount.Text);
+                    convertedvalue = AmountEntered * 3.01;
 
                     txt_convertedAmt.Text = convertedvalue.ToString();
                 }
